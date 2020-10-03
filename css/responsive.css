@@ -1,0 +1,106 @@
+@media only screen and (max-width: 600px) {
+    .about-image{
+        padding-left: 0px;
+    }
+    .needs-validation{
+        margin-left: 14px!important;
+        margin-right: 14px!important;
+    }
+    #hero-submit.submit{
+        padding-left: 35px;
+    }
+    .chief-image img{
+        margin-top: 70px;
+    }
+  
+    .meet-content h5{
+        margin-top: -50px;
+    }
+}
+@media all and (max-width: 700px) and (min-width: 300px) {
+   .col-md-12 .testi-text ul{
+        margin-left: 20px;
+     }
+  }
+  @media only screen and (min-width: 768px) {
+    .col-md-12 .testi-text ul{
+        margin-left: 84px;
+     }
+  }
+  @media only screen and (min-width: 992px) {
+     .testi-text ul{
+        margin-left: 45px;
+     }
+  }
+  @media only screen and (min-width: 1200px) {
+    .testi-text ul{
+        margin-left: 84px;
+     }
+  }
+  @media only screen and (min-width: 768px) {
+    .chief-image img{
+        margin-top: 70px;
+    }
+  }
+  @media only screen and (min-width: 768px) {
+            .hero-text .col-md-12 h5{
+                      font-size: 1.23rem;
+                         margin-left: -30px;
+  }  
+  .hero-text .col-md-12 h1{
+      font-size: 2rem;
+      margin-left: -40px;
+  }
+  }
+  @media only screen and (min-width: 992px) {
+    .hero-text .col-lg-12 h5{
+        font-size: 2rem;
+           margin-left: -100px;
+}  
+.hero-text .col-lg-12 h1{
+    font-size: 4rem;
+    margin-left: -170px;    
+}  
+  }
+  @media only screen and (max-width: 600px) {
+      .hero-text .col-sm-12 h5{
+          font-size: 12px;
+          margin-left: -64px;
+      }
+    .hero-text .col-xs-12 h1{
+        font-size: 17px;
+       margin-left: -100px; 
+    } 
+  }
+  @media only screen and (max-width: 600px) {
+    #hero-outline{
+        width: 150px;
+        margin-left: -20px;
+    }
+    #hero-icon-image {
+        
+        width: 40px;
+    }
+    .hero-button .welcome{
+        margin-left: -18px;
+        margin-bottom: 10px;
+    }
+
+  
+    .hero-button .discover{
+        margin-left: -9px;
+    }
+}
+
+
+@media only screen and (min-width: 400px){
+    #hero-icon-image{
+        margin-left: 140px;
+    }
+}
+
+@media only screen and (min-width: 768px){
+    #hero-form{
+        margin-top: -48px;
+    }
+}
